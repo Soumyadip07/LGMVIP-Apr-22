@@ -1,5 +1,5 @@
 ## LGM-VIP April 2022
-## Task 5 - Next Word Prediction
+## Task 4 - Next Word Prediction
 
 Next word Prediction is a Deep Learning project.The aim of the project is to predict the next word of a given sentence.
 
